@@ -1,3 +1,4 @@
 #gitignore
 /node_modules
 /Angular 2 test drive
+*.map
